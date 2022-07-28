@@ -37,8 +37,8 @@ https://www.youtube.com/channel/UCzLPmHoMTi-3oyakCDhGBAA<br><br>
     https://minecraft.fandom.com/zh/wiki/%E6%95%99%E7%A8%8B/%E5%AE%89%E8%A3%85%E6%95%B0%E6%8D%AE%E5%8C%85?variant=zh-tw
 
     <b>或是</b>：
-    1. 按右上方"Code"將整個資料夾下載下來
-    2. 把它丟到Minecraft裡想安裝到的世界資料夾中的datapacks裡
+    1. 按右上方"Code"選擇"Download ZIP"，並將其解壓縮
+    2. 把"多重箭矢_Datapack"整個資料夾，丟到Minecraft裡想安裝到的世界資料夾中的datapacks裡
     3. 回到遊戲重新進入那個世界
 
 <br><br>
