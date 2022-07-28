@@ -13,13 +13,36 @@
 
 
 ## <b>使用方式</b>：
-使用方式(指令)已附在資料包中，成功安裝後會看到提示。<br><br>
+- 將自己設為使用多重箭矢的玩家：<br>
+` /tag @s add mult `<br>
+
+- 取消自己的多重箭矢功能：<br>
+` /tag @s remove mult `<br>
+
+- 設定自己每次擊發的箭矢數量等級(0~21)(超過21視同21)：<br>
+` /scoreboard players set @s amount <數量等級> `<br>
+
+- 設定箭矢是否有尾跡：<br>
+` /function multa:cmd/showparticle `<br>
+
+- 多重箭矢在落地後是否自動刪除 (前一項有開的話建議打開)：<br>
+` /function multa:cmd/auto_remove `<br>
+
+- 設定多重箭矢落地是否爆炸 (落地會自動刪除)：<br>
+` /function multa:cmd/explosion `<br>
+
+- 移除所有箭矢：<br>
+` /function multa:cmd/reset_arrow `<br>
+
+- 重置所有設定：<br>
+` /function multa:cmd/reset_all`<br><br>
+
 
 
 
 ## <b>補充</b>：
 - 如需使用此作品拍攝於任何影音平台，或用於自己製作並公開的地圖、資料包...中，<br>
-都是可以的，但還希望能夠附上<b>影片連結</b>：<br>
+還希望能夠附上<b>影片連結</b>：<br>
 https://youtu.be/GXAAkl2R1oo<br>
 或我的<b>Youtube頻道連結</b>：<br>
 https://www.youtube.com/channel/UCzLPmHoMTi-3oyakCDhGBAA<br><br>
@@ -37,9 +60,9 @@ https://www.youtube.com/channel/UCzLPmHoMTi-3oyakCDhGBAA<br><br>
     https://minecraft.fandom.com/zh/wiki/%E6%95%99%E7%A8%8B/%E5%AE%89%E8%A3%85%E6%95%B0%E6%8D%AE%E5%8C%85?variant=zh-tw
 
     <b>或是</b>：
-    1. 按右上方"Code"選擇"Download ZIP"，並將其解壓縮
-    2. 把"多重箭矢_Datapack"整個資料夾，丟到Minecraft裡想安裝到的世界資料夾中的datapacks裡
-    3. 回到遊戲重新進入那個世界
+    1. 按右上方"Code"選擇"Download ZIP"，下載並將其解壓縮
+    2. 把其中的<b>"多重箭矢Datapack_v1.0"</b>整個資料夾，丟到Minecraft裡想安裝到的世界資料夾中的datapacks裡
+    3. 回到遊戲重新進入那個世界<br><br>
 
-<br><br>
+
 ## <b>Have a good day :D</b>
