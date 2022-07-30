@@ -32,7 +32,7 @@
 ` /function multa:cmd/explosion `<br>
 
 - 移除所有箭矢：<br>
-` /function multa:cmd/reset_arrow `<br>
+` /function multa:cmd/remove_arrow `<br>
 
 - 重置所有設定：<br>
 ` /function multa:cmd/reset_all`<br><br>
