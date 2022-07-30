@@ -19,7 +19,7 @@
 - 取消自己的多重箭矢功能：<br>
 ` /tag @s remove mult `<br>
 
-- 設定自己每次擊發的箭矢數量等級(0~21)(超過21視同21)：<br>
+- 設定自己每次擊發的箭矢數量等級(0~25) (超過25視同25)：<br>
 ` /scoreboard players set @s amount <數量等級> `<br>
 
 - 設定箭矢是否有尾跡：<br>
@@ -61,7 +61,7 @@ https://www.youtube.com/channel/UCzLPmHoMTi-3oyakCDhGBAA<br><br>
 
     <b>或是</b>：
     1. 按右上方"Code"選擇"Download ZIP"，下載並將其解壓縮
-    2. 把其中的<b>"多重箭矢Datapack_v1.0"</b>整個資料夾，丟到Minecraft裡想安裝到的世界資料夾中的datapacks裡
+    2. 把其中的<b>"多重箭矢Datapack_v1.1"</b>整個資料夾，丟到Minecraft裡想安裝到的世界資料夾中的datapacks裡
     3. 回到遊戲重新進入那個世界<br><br>
 
 
